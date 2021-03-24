@@ -1,2 +1,2 @@
-# bulls-cows
+# bulls&cows
 Be pleasure to play Bulls&amp;Cows
